@@ -1,6 +1,12 @@
+## Deprecation Notice
+
+As of [this announcement](https://pytorch.org/blog/pytorch-1-dot-3-adds-mobile-privacy-quantization-and-named-tensors/) PyTorch 1.3 now officialy supports an end-to-end workflow from Python to deployment on iOS and Android through [PyTorch Mobile](https://pytorch.org/mobile/home/). Thank you for your interest with PyTorch Lite.
+
+---
+
 # PyTorch Lite
 
-_Note: The Android port is not ready for general usage yet._
+_~~Note: The Android port is not ready for general usage yet.~~_
 
 ## What is PyTorch Lite?
 
